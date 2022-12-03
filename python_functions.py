@@ -47,3 +47,6 @@ connect(host = 'iaf', port= 12345, pwd= 'qwerty', landmark='bangalore')  #functi
 
 # list1=[1,2,3,4,5]
 # sum_of_num(list1)
+
+
+Hi iam just added into my local
